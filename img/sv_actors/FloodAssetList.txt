@@ -1,0 +1,85 @@
+Flood: The Prequel requested assets
+
+Player Sprites - Walk Sprites + Battle Sprites + Portraits
+-----------
+Male Player Modern
+Male Player
+Female Player Modern
+Female Player
+
+Non-Player Characters - Walk Sprites + Potraits
+-----------
+Zabkiel
+Hiram
+Rachel
+Abihu
+Adataneses
+Elder Eliezer
+Leah
+Deborah
+Abner
+Zelle
+Reah
+Noah
+
+Non-Player Extras - Walk Sprites
+-----------
+NPC Male 1
+NPC Male 2
+NPC Male 3
+NPC Female 1
+NPC Female 2
+NPC Female 3
+
+Backgrounds
+-----------
+Swamp
+Ark
+Lake
+Forest
+Cave
+Foothills
+Labyrinth
+
+Enemies - Walk Sprites + Battle Sprites
+------------
+Rat
+Rat Corrupted
+Timber Wolf
+Timber Wolf Corrupted
+Panther
+Panther Corrupted
+Bear
+Bear Corrupted
+Rabbit Corrupted
+Cougar
+Cougar Corrupted
+Snake
+Snake Corrupted
+Black Bear 
+Black Bear Corrupted
+Bat
+Bat Corrupted
+Spider
+Spider Corrupted
+Frog
+Frog Corrupted
+Grey Wolf
+Grey Wolf Corrupted
+Lynx
+Lynx Corrupted
+Otter
+Otter Corrupted
+Alligator 
+Alligator Corrupted
+Beaver
+Beaver Corrupted
+Turtle
+Turtle Corrupted
+Ibis
+Ibis Corrupted
+
+Special Enemy - Walk Sprites + Battle Sprites + Bust
+-------------
+Fallen Angel
+
